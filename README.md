@@ -1,7 +1,8 @@
 # sum_in_mips
 
 ### Addition with input
-```.data
+```
+.data
 msg1: .asciiz"Enter the num 1:"
 msg2: .asciiz"Enter the num 2:"
 
